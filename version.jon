@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
-  "downloadUrl": "https://github.com/nguyenbanhu196/pcmonitor/releases/download/v1.0.3/PCMonitor_1.0.3.zip",
-  "notes": "Bổ sung thêm thông báo đã có phiên bản mới"
+  "downloadUrl": "https://github.com/nguyenbanhu196/pcmonitor/releases/download/v1.0.3/PCMonitor_v1.0.3.zip",
+  "notes": "Bổ sung Wifi và Ethernet, cải tiến hiệu năng"
 }
